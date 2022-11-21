@@ -14,9 +14,9 @@ The designs were created to the following widths:
 
 ### Neutral
 
-- Very Dark Blue: hsl(230, 29%, 20%)
-- Dark Grayish Blue: hsl(230, 11%, 40%)
-- Grayish Blue: hsl(231, 7%, 65%)
+- Very Dark Blue: 
+- Dark Grayish Blue: 
+- Grayish Blue: 
 - Light Grayish Blue: 
 
 ## Typography
