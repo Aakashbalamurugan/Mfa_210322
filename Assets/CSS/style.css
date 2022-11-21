@@ -17,16 +17,13 @@ a{
     text-decoration: none;
     color: black;
 }
-.learn a{
-    color: white;
-    text-decoration: underline;
-}
 .main{
     display: flex;
     margin-top: 100px;
 }
 h1{
     font-size: 70px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .cont{
     font-size: 20px;
@@ -42,11 +39,18 @@ input{
     color: white;
     padding: 20px 25px;
     font-size: 25px;
-    margin-left: 20px;
-    border-radius: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
 }
 .learn{
-    background-color:hsl(255deg 43% 28%);
     color: white;
+    background-color: hsl(255deg 43% 28%);
+    padding: 10px 30px;
+    border-radius:25px;
 }
+.learn a{
+    color: white;
+    text-decoration: underline;
+}
+
 
