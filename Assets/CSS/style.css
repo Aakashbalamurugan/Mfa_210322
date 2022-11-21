@@ -1,7 +1,7 @@
 body{
     margin: 50px 100px;
     Font-size: 18px;
-    background-color: hsl(207, 33%, 95%);
+    background-color:  hsl(207, 33%, 95%);
 }
 header{
     display: flex;
