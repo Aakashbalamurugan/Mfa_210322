@@ -30,6 +30,9 @@ h1{
     font-size: 20px;
     width: 850px;
 }
+.img1{
+    width:400px;
+}
 input{
     height:65px;
     width: 400px;
@@ -53,7 +56,5 @@ input{
     color: white;
     text-decoration: underline;
 }
-.img1{
-    width:400px;
-}
+
 
